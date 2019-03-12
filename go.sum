@@ -1,2 +1,3 @@
 github.com/ahmedabdraboh/go-logger v0.0.0-20190130123405-5dffb16dfa08 h1:8wep8VaS+odcgGphgRmr3tyUoq/d7u8alLQ5dUGZR1k=
 github.com/ahmedabdraboh/go-logger v0.0.0-20190130123405-5dffb16dfa08/go.mod h1:OZiGYgw6aaUt61yjekBTujOdCBDkjMsVyP6BNRSQqgQ=
+github.com/ahmedabdraboh/go-logger v0.0.0-20190312193925-8a997b9a2977/go.mod h1:OZiGYgw6aaUt61yjekBTujOdCBDkjMsVyP6BNRSQqgQ=
